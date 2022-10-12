@@ -1,6 +1,6 @@
 using Application.Core;
 using Microsoft.EntityFrameworkCore;
-using Presistance;
+using Persistence;
 
 namespace API.Extensions;
 

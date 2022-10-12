@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace Presistance;
+namespace Persistence;
 
 public class DataContext : DbContext
 {
